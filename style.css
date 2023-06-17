@@ -1,0 +1,35 @@
+#body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+html, body {
+    height: 100%;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.card {
+    width: 75%;
+}
+.modal.modal-small {
+    max-width: 700px;
+    width: 90%;
+    margin: 0 auto;
+   
+}
+.modal-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ 
